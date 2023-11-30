@@ -8,8 +8,7 @@ The Journey Tracker is a web application built using Node.js, Express, PostgreSQ
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-  
+
 ---
 
 ## Features
