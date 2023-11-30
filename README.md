@@ -9,6 +9,8 @@ The Journey Tracker is a web application built using Node.js, Express, PostgreSQ
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+  
+---
 
 ## Features
 
@@ -26,33 +28,37 @@ The Journey Tracker is a web application built using Node.js, Express, PostgreSQ
 
 5. **Database Integration:**
    - PostgreSQL database for efficient data storage and retrieval.
+   
+---
 
 ## Requirements
 
-- Node.js
-- PostgreSQL
-- npm (Node Package Manager)
+- **Node.js**
+- **PostgreSQL**
+- **npm (Node Package Manager)**
+
+---
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/family-travel-tracker.git
    ```
 
-2.Navigate to the project directory:
+2.**Navigate to the project directory:**
 
   ```bash
   cd The-Journey-Tracker
   ```
 
-3.Install Dependencies:
+3.**Install Dependencies:**
 
   ```bash
   npm install
   ```
-4.Set up your PostgreSQL database and update the connection details in the code.
+4.**Set up your PostgreSQL database and update the connection details in the code.**
 
 ---
 
