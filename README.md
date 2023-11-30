@@ -81,27 +81,27 @@ Contributions are welcome! Please follow the contributing guidelines:
 * **Code Contributions:** Fork the repository, create a branch, and submit a pull request with your changes. Ensure your code follows the project's coding standards.
 * **Documentation:** Help improve our documentation by fixing typos, clarifying explanations, or adding new content.
 * **Testing:** Contribute by testing the application and providing feedback on different environments or edge cases.
-  
- ### Getting Started
 
- 1. **Fork the repository:**
+### Getting Started
+
+1. **Fork the repository:**
     - Click the "Fork" button at the top right of the repository to create your copy.
 
- 2. **Clone your forked repository to your local machine:**
+2. **Clone your forked repository to your local machine:**
     ```bash
     git clone https://github.com/your-username/family-travel-tracker.git
     ```
- 3.**Create a new branch for your contribution:**
+3.**Create a new branch for your contribution:**
    ```bash
    git checkout -b feature/your-feature
    ```
- 4.**Make your changes and commit them with clear and concise messages:**
+4.**Make your changes and commit them with clear and concise messages:**
    ```bash
    git commit -m "Add your changes"
    ```
- 5.**Push your branch to your fork:**
+5.**Push your branch to your fork:**
    ```bash
    git push origin feature/your-feature
    ```
- 6.**Open a pull request with a detailed description of your changes.**
+6.**Open a pull request with a detailed description of your changes.**
 
