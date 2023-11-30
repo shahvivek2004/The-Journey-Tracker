@@ -47,36 +47,36 @@ The Journey Tracker is a web application built using Node.js, Express, PostgreSQ
    git clone https://github.com/your-username/family-travel-tracker.git
    ```
 
-2.**Navigate to the project directory:**
+2. **Navigate to the project directory:**
 
   ```bash
   cd The-Journey-Tracker
   ```
 
-3.**Install Dependencies:**
+3. **Install Dependencies:**
 
   ```bash
   npm install
   ```
-4.**Set up your PostgreSQL database and update the connection details in the code.**
+4. **Set up your PostgreSQL database and update the connection details in the code.**
 
 ---
 
 ## Usage
 
-1.Start The Server:
+1. **Start The Server:**
 
 ```bash
 npm init 
 ```
 
-2.Give command:
+2. **Give command:**
 
 ```bash
 node index.js
 ```
 
-3.Open your web browser and go to `http://localhost:3000` to use The Journey Tracker.
+3. **Open your web browser and go to `http://localhost:3000` to use The Journey Tracker.**
 
 ---
 
@@ -97,17 +97,17 @@ Contributions are welcome! Please follow the contributing guidelines:
     ```bash
     git clone https://github.com/your-username/family-travel-tracker.git
     ```
-3.**Create a new branch for your contribution:**
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-4.**Make your changes and commit them with clear and concise messages:**
-   ```bash
-   git commit -m "Add your changes"
-   ```
-5.**Push your branch to your fork:**
-   ```bash
-   git push origin feature/your-feature
-   ```
-6.**Open a pull request with a detailed description of your changes.**
+3. **Create a new branch for your contribution:**
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+4. **Make your changes and commit them with clear and concise messages:**
+    ```bash
+    git commit -m "Add your changes"
+    ```
+5. **Push your branch to your fork:**
+    ```bash
+    git push origin feature/your-feature
+    ```
+6. **Open a pull request with a detailed description of your changes.**
 
